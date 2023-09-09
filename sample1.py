@@ -2,7 +2,7 @@ import codecs
 import gradio as gr
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 print("Do you want code documentation expert press 1 or code convertion expert press 2")
 n = int(input())
